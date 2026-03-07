@@ -1,0 +1,384 @@
+{
+  "total_videos": 47,
+  "successful_uploads": 20,
+  "failed_runs": 27,
+  "total_api_cost": 0.15,
+  "videos": [
+    {
+      "timestamp": "2025-10-10T03:52:05.461925",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 9.6586,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T03:57:25.256325",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 7.00011,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T04:00:50.668950",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 4.902515,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T04:10:01.742386",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 260.186921,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T04:55:37.605712",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 198.190925,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T05:08:06.975504",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 292.173722,
+      "video_id": "watch?v=QTuOBKt_vBk",
+      "cost": 0.15
+    },
+    {
+      "timestamp": "2025-10-10T14:05:58.833200",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 6.161522,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T14:08:20.032739",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 34.532553,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T14:11:22.584098",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 48.832846,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T14:16:03.547221",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 112.366837,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T14:23:50.918771",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 339.662625,
+      "video_id": "watch?v=Si0b76wpKjE",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2025-10-10T14:44:27.259762",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 395.751602,
+      "video_id": "watch?v=Dzpk3mErzyk",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2025-10-10T19:29:35.926471",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 420.927285,
+      "video_id": "watch?v=7r_W9xjYrdg",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2025-10-10T19:37:40.546563",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 254.11924,
+      "video_id": "watch?v=jYZScy3W-gU",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2025-10-10T19:40:28.206446",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 18.591344,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T19:41:16.259898",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 19.305291,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-10T19:42:02.450715",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 29.231396,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T10:22:53.296972",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 26.737032,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T10:28:19.307701",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 88.22222,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T10:32:40.355393",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 33.95189,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T10:40:16.622348",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 287.85042,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T11:11:48.988264",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 24.203144,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T11:39:01.254040",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 1246.815095,
+      "video_id": "watch?v=UqYxNaqRAzE",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2025-10-31T12:55:31.588590",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 22.244191,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2025-10-31T13:12:41.173961",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 946.307859,
+      "video_id": "watch?v=19xLRhEiA6s",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-06T16:41:49.436978",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 3.515452,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-06T16:42:26.758818",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 3.93527,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-06T16:43:03.253823",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 4.79971,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-06T16:46:07.470315",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 2.715814,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-06T16:51:10.677518",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 129.986695,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-06T19:17:33.775795",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 134.234874,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-09T01:42:13.549003",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 5.770752,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-09T01:46:32.968631",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 223.79138,
+      "video_id": "watch?v=wgqxi0QnRO0",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T01:57:02.609712",
+      "topic": null,
+      "success": false,
+      "duration_seconds": 44.947802,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-09T02:03:03.825783",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 302.014005,
+      "video_id": "watch?v=KTylByGvrLs",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T02:17:05.147449",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 238.484168,
+      "video_id": "watch?v=_8isgABCM-s",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T02:28:05.328153",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 412.724479,
+      "video_id": "watch?v=Hmi4EHbEBOo",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T02:39:16.958216",
+      "topic": "5 Mind-Blowing Facts About The Universe",
+      "success": true,
+      "duration_seconds": 397.944788,
+      "video_id": "watch?v=zUayXJt7dnw",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T03:01:27.850570",
+      "topic": "Amazing facts about the ocean",
+      "success": true,
+      "duration_seconds": 869.638506,
+      "video_id": "watch?v=L3Oe5JEwMIQ",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T13:24:51.937900",
+      "topic": "Amazing psychology and brain facts",
+      "success": true,
+      "duration_seconds": 642.048284,
+      "video_id": "watch?v=3P_tJWF-_n8",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T13:59:29.530774",
+      "topic": "5 incredible facts about the human brain",
+      "success": true,
+      "duration_seconds": 1792.419618,
+      "video_id": "watch?v=9iUJFuMk0gw",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T14:43:26.574959",
+      "topic": "3 incredible facts about the ocean",
+      "success": true,
+      "duration_seconds": 1211.514455,
+      "video_id": "watch?v=TU3RfpIDbf0",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T15:30:07.876303",
+      "topic": "The secret life of octopuses",
+      "success": true,
+      "duration_seconds": 1160.918636,
+      "video_id": "watch?v=x-WEYq7y-CY",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-02-09T17:40:58.572107",
+      "topic": "The science of black holes",
+      "success": false,
+      "duration_seconds": 322.252923,
+      "video_id": null,
+      "cost": 0
+    },
+    {
+      "timestamp": "2026-02-10T13:33:52.275863",
+      "topic": "the human brain vs the deep ocean",
+      "success": true,
+      "duration_seconds": 437.571547,
+      "video_id": "watch?v=BPB_DSOVdLw",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-03-05T17:02:58.126549",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 264.592355,
+      "video_id": "watch?v=u4xa_6P_4E4",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-03-05T17:17:59.644767",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 253.203351,
+      "video_id": "watch?v=X8VwVBKC0j8",
+      "cost": 0.0
+    }
+  ]
+}

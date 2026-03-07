@@ -1,0 +1,24 @@
+# Virtual environment - DO NOT SHARE
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (contains API keys)
+.env
+
+# Auth tokens
+token.pickle
+
+# Logs and output
+logs/
+output/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Secret credentials file - DO NOT PUSH
+youtube_credentials.json

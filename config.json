@@ -1,0 +1,21 @@
+{
+  "niche": "educational facts and science",
+  "target_audience": "curious minds who love learning interesting facts",
+  "video_style": "Fast-paced, visually stunning educational content",
+  "tone": "enthusiastic and mind-blowing",
+  "language": "en",
+  "video_duration": 90,
+  "fps": 30,
+  "format": "standard",
+  "resolution": "1080p",
+  "voice": "en-US-AriaNeural",
+  "voice_rate": "+0%",
+  "voice_pitch": "+0Hz",
+  "add_subtitles": true,
+  "subtitle_style": "modern",
+  "add_music": true,
+  "music_volume": 0.15,
+  "generate_thumbnail": true,
+  "parallel_downloads": true,
+  "max_download_workers": 5
+}
