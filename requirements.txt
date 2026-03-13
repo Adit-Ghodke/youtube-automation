@@ -4,6 +4,7 @@ openai>=2.17.0
 # Video editing - MoviePy 2.x requires pillow<12.0
 moviepy>=2.2.0
 pillow>=9.2.0,<12.0
+numpy>=1.24.0
 
 # HTTP requests
 requests>=2.32.0

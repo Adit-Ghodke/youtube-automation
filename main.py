@@ -50,7 +50,7 @@ class AutomationOrchestrator:
         else:
             # Create default configuration if not exists
             config_data = {
-                "niche": "technology tutorials",
+                "niche": "educational facts and science",
                 "target_audience": "tech enthusiasts",
                 "video_style": "educational",
                 "tone": "professional yet friendly",

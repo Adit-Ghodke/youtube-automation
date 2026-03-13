@@ -1,6 +1,6 @@
 {
-  "total_videos": 47,
-  "successful_uploads": 20,
+  "total_videos": 48,
+  "successful_uploads": 21,
   "failed_runs": 27,
   "total_api_cost": 0.15,
   "videos": [
@@ -378,6 +378,14 @@
       "success": true,
       "duration_seconds": 253.203351,
       "video_id": "watch?v=X8VwVBKC0j8",
+      "cost": 0.0
+    },
+    {
+      "timestamp": "2026-03-09T00:18:48.613470",
+      "topic": null,
+      "success": true,
+      "duration_seconds": 327.896706,
+      "video_id": "watch?v=EAfQClbJNOY",
       "cost": 0.0
     }
   ]
